@@ -1,0 +1,15 @@
+.cardInfo{
+    display: flex;
+    
+}
+
+.restHeader{
+    flex-direction: column;
+}
+
+.IconHead{
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    border-radius: 50%;
+}
